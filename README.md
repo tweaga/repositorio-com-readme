@@ -2,7 +2,8 @@
 # Projeto com README
 um projeto de teste com um arquivo README 👻
 
-[<img src="./bulldog.gif" alt="gif do bulldog vini insano">] (https://www.google.com)
+[<img src="./bulldog.gif" alt="gif do bulldog vini insano">] 
+(https://www.google.com)
 
 ## tecnologias utilizadas
 - HTML
